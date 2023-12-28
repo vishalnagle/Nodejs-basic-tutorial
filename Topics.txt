@@ -1,0 +1,286 @@
+TOPICS COVERED
+
+Tutorial repo:
+https://github.com/anil-sidhu/node-js
+
+
+#1 what is Node | Introduction 
+
+#2 Basic Point Before Start with Code
+
+#3 Install node , NPM 
+
+#4 Make First Program 
+
+#5 JavaScript Fundamentals in Node 
+Covered imports between two files in node
+
+#6 Core Modules 
+Global and non global modules
+
+#7 Create Server 
+Create a basic server
+
+
+#8 All About Package.json file
+npm init command package.json file
+how to install packages
+
+#9 A challenge and 2 important interview question 
+node modules should be in .gitignore file
+
+
+# 10 All About Nodemon package 
+How nodemon works and installation
+
+# 11 Simple and basic API
+Created a simple GET api with data imported from other file
+
+# 12 Getting input from command line 
+Using fs module done adding and deleting files
+
+# 13 Display file list from folder 
+Make files in a folder
+Use path module
+Get files name and print
+
+#14 CRUD with File System 
+Make,Rename,Create,Read and Update file
+
+#15 Asynchronous basics in Node.js 
+Saw an example of async programming in node
+
+# 16 Handle Asynchronous Data 
+handle async data with promises
+
+# 17 How Node js Works 
+Call Stack
+Node API
+Callback Queue
+
+
+# 18 Express js Introduction 
+What is Express.js
+Install Express
+Make examples with express.js
+
+
+# 19 Routing Params - Request and Response 
+
+# 20 Render HTML and JSON 
+Show HTML tags
+Show json data
+Link pages
+
+
+# 21 Make HTML page 
+Make folder for HTML file and access it
+Make HTML files
+Load html files
+
+# 22 Remove extension from URL and 404 Page 
+Apply GET method
+Remove an extension from URL
+Make and apply 404 page
+
+# 23 EJS Template Engine 
+What is the template engine
+Install ejs template package
+Setup dynamic routing
+Make dynamic page
+
+# 24 Dynamic Page with ejs 
+How to make loop in ejs
+Make header file
+Show common header file
+
+
+# 25 Express js Middleware 
+What are middlewares
+How to make a middleware
+Apply middleware on routes
+Types of middlewares
+
+
+# 26 Route level Middleware express js 
+Route level middleware
+Apply middleware on a single route
+Make middleware in different file
+Apply middleware in the group of route
+
+
+# 27 Install MongoDB - 
+Download DB
+Install Mongo DB
+Set environment for Mongo DB
+Mongo DB compass tool
+
+# 28 MongoDB Basic - 1
+What is MongoDb
+Difference between SQL and mongodb
+Mongodb basic commands
+
+
+# 29 MongoDB CRUD Operation
+
+How to insert data collection
+How to check inserted data
+How to update & delete data 
+
+# 30 Connect MongoDB with Node js
+
+Install MongoDB package
+Connect mongodb with node js
+Show data from mongodb
+
+
+# 31 Read Data from MongoDB
+
+Read Data from mongodb
+Make file for db connection
+Handle promise
+
+#32 Insert Data in MongoDB
+
+Insert data from mongodb
+import mongodb connection
+Insert single and multiple records
+
+#33 Update Data in MongoDB
+
+Make new file for update data
+Import mongodb connection
+Update single and multiple data
+
+#34 Delete Record in MongoDB
+
+Make new file for delete data
+Import mongodb connection
+Delete single and multiple records
+
+
+#35 Basic GET API with MongoDB
+
+Make new file for api
+Import and use mongo config
+make api for get data
+Test with postman
+
+#36 Post API | insert data in MongoDB
+
+Make POST Method for api
+Send data from postman
+Get data in nodejs by request
+Write code for insert data in mongodb
+
+
+#37 PUT API | Update data in MongoDB
+
+Make PUT method for API
+Send data from postman
+Handle data in node js by request
+Write code for update data in mongodb
+
+
+#38 Delete API | delete data from MongoDB
+
+Make delete method for api
+Send data from postman
+Handle data in node.js by request
+Write code for delete data in mongodb
+
+
+#39 Mongoose with node
+
+What is mongoose
+Difference between mongoose and mongodb package
+Install mongoose
+What is schemas
+What is model
+Connect mongodb and nodejs with mongoose
+
+
+#40 CRUD with Mongoose
+
+Continue last code(what is mongoose, model, schema etc)
+Update and delete record
+Delete record
+Find and read result
+
+
+#41 Post API with mongoose , How to make post API in Node js
+
+Make config file for mongoDb
+Make post route
+Get data from postman and save in Db
+
+
+#42 GET, DELETE and PUT api method with mongoose
+
+Example of GET, PUT and DELETE api
+
+
+
+#43 Search API with multiple filed
+Make simple GET route for api
+Search with single field
+Search with multiple fields
+Test api
+
+
+#44 Upload File in node js
+
+Install multer package
+Make router for upload file
+Write code for upload file
+
+
+#45 OS module 
+
+What is OS module
+Important functions of OS module
+
+
+#46 Events and Event Emitter
+
+What is Events and Event Emitter
+Make an event and call it
+
+
+#47 REPL - Read-Eval-Print-Loop
+
+What is REPL
+Example of REPL
+
+#48 connect with mysql
+
+Connect mysql npm package
+Connect nodejs and mysql
+Get data from mysql
+
+
+#49 GET API with MySQL
+
+Make config file
+Make route for api
+Get data from mysql
+
+
+#50 POST API with MySQL
+
+Make route for api
+insert data in mysql
+
+
+#51 PUT API with MySQL
+
+Make route for api
+Get data from api
+Update data in mysql
+
+#52 DELETE API with MySQL
+
+Make route for api
+Get data from postman
+Delete data from mysql
+
