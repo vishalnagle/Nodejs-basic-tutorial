@@ -1,0 +1,54 @@
+Node.js Full Course for Beginners | Complete All-in-One Tutorial
+
+Github Repo : https://github.com/gitdagray/node_js_resources
+
+Chapter 1 - Start Here
+
+os
+__dirname
+__filename
+path
+Create your own modules
+
+
+--------------------------------------------------------
+
+
+Chapter 2 - Read and write files
+
+fs module - readFile,writeFile,appendFile,rename
+path module
+Attaching fs module with promises
+Check,create,read,remove directories
+
+--------------------------------------------------------
+
+
+Chapter 3 - NPM Modules
+
+npm init
+package.json file
+uuid package
+nodemon package
+date-fns package
+
+----------------------------------------------------------
+
+Chapter 4 - Event Emitter
+
+Using LogEvents with the help of fsPromises, path and events modules
+
+
+------------------------------------------------------------
+
+
+Chapter 5 - Build a web server
+
+
+http module
+
+-------------------------------------------------------------
+
+Chapter 6 - Intro to Express Js Framework (To start)
+
+
