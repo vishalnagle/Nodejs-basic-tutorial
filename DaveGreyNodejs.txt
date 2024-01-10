@@ -49,6 +49,48 @@ http module
 
 -------------------------------------------------------------
 
-Chapter 6 - Intro to Express Js Framework (To start)
+Chapter 6 - Intro to Express Js Framework
+
+Express.js documentation
+Different http get methods with regex
+next() function in Express
+Chanining route handlers
+
+-----------------------------------------------------------------
+
+Chapter 7 - Middleware
+
+What is Middleware
+Built in middlewares
+Applying css,images and texts using middlewares
+Custom middlewares
+Third party middlewares
+CORS npm package
+-----------------------------------------------------------------
+
+Chapter 8 - Routing
+
+Using router with express
+Handling routes with different http methods
+
+------------------------------------------------------------------
+
+Chapter 9 - MVC REST API
+
+Model View Controller Introduction
+
+
+-------------------------------------------------------------------
+
+Chapter 10 - Authentication
+
+Used bcrypt npm package used to hash passwords
+
+-------------------------------------------------------------------
+
+Chapter 11 - JWT Authentication
+
+Access token and refresh token
+NPM packages used - dotenv,jsonwebtoken, cookie-parser
 
 
