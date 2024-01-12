@@ -92,5 +92,13 @@ Chapter 11 - JWT Authentication
 
 Access token and refresh token
 NPM packages used - dotenv,jsonwebtoken, cookie-parser
+Sending cookie using http only
+How to manage the token at the frontend
+
+--------------------------------------------------------------------
+
+Chapter 12 - User Roles | Authorization
+
+Adding multiple roles for Authorization
 
 
