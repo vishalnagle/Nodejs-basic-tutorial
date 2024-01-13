@@ -102,3 +102,27 @@ Chapter 12 - User Roles | Authorization
 Adding multiple roles for Authorization
 
 
+---------------------------------------------------------------------
+
+Chapter 13 - Intro to MongoDB and Mangoose
+
+MongoDB online database use
+Mongoose js package used and also docs on website
+
+---------------------------------------------------------------------
+
+Chapter 14 - Mongoose Data Models
+
+Mongoose Schemas 
+Data Models 
+
+---------------------------------------------------------------------
+
+
+Chapter 15 - Async CRUD Operations
+
+Performed CRUD using mongoDB database which Dave created on mongodb.com
+
+
+-----------------------------------------------------------------------
+
